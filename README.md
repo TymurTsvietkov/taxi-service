@@ -23,11 +23,11 @@ This is a simple web-application for managing taxi park. It represents work of s
 ### Technologies used in project
 
 - Java 11
-- Apache tomcat v.9.0.64
-- MySQL
-- Servlet
+- Apache tomcat 9.0.64
+- MySQL 8.0.29
+- Servlet API 4.0.1
 - JDBC
-- JSTL 
+- JSTL 1.2
 - JSP
 - HTML, CSS
 
