@@ -1,6 +1,6 @@
 # taxi-service
 ### Project Description
-This is a simple web-application for managing taxi park. It represents work of such taxi service and has net functions:
+This is a simple web-application for managing taxi park. It represents work of such taxi service and has next functions:
 
 - Add user
 - Add manufacturer of car
